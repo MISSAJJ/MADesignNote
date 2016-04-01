@@ -124,30 +124,30 @@ _______MISSAJJ琴瑟静听  2016.4.1
 
 + [MAImageViewTool](https://github.com/MISSAJJ/MAImageViewTool)  最后更新日期: 2016年3月1日
  
-* MISSAJJ写的一个基于SDWebImage自定义的管理网络图片加载的工具类
+    MISSAJJ写的一个基于SDWebImage自定义的管理网络图片加载的工具类
      (普通图片加载,渐现Alpha图片加载,菊花Indicator动画加载) 
 
 
 + [MATools](https://github.com/MISSAJJ/MATools)  最后更新日期: 2016年3月2日
 
-* MISSAJJ积累整理的各种常用工具类代码
+   MISSAJJ积累整理的各种常用工具类代码
 
 
 
 + [MAHttpTool](https://github.com/MISSAJJ/MAHttpTool)  最后更新日期: 2016年3月4日
 
-* MISSAJJ写的一个基于AFNetworking为内核的HTTP请求工具类
+   MISSAJJ写的一个基于AFNetworking为内核的HTTP请求工具类
 
 
 
 + [MAHUDTool](https://github.com/MISSAJJ/MAHUDTool)  最后更新日期: 2016年3月4日
 
-* MISSAJJ写的一个基于MBProgressHUD为内核的HUD工具类
+   MISSAJJ写的一个基于MBProgressHUD为内核的HUD工具类
 
 
 + [MAButtonTool](https://github.com/MISSAJJ/MAButtonTool)  最后更新日期: 2016年3月19日
 
-* MISSAJJ写的“一行搞定”快速创建导航栏按钮的工具类
+   MISSAJJ写的“一行搞定”快速创建导航栏按钮的工具类
 
 
 
