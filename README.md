@@ -20,7 +20,15 @@ _______MISSAJJ琴瑟静听  2016.4.1
 
 ### 前言: 
 
-从2011年就开始迈进手机软件开发行业,3年主攻APP产品策划整合,界面设计,产品上架,市场推广(主要是淘宝购物类应用),2年从事IOS项目原生代码开发,一路走来虽然艰辛但却甚是欣喜, 因为_____
+从2011年就开始迈进手机软件开发行业,
+
+3年主攻APP产品策划整合,界面设计,产品上架,市场推广(主要是淘宝购物类应用),
+
+2年从事IOS项目原生代码开发,
+
+一路走来虽然艰辛但却甚是欣喜, 
+
+因为_____
 
 ####『 这 是 我 喜 欢 做 的 事 情 !』
 ###『 这 是 我 喜 欢 做 的 事 情 !』
@@ -39,7 +47,6 @@ _______MISSAJJ琴瑟静听  2016.4.1
 
 
 
----
 
 ##2、第一个上架Appstore的作品
 
@@ -47,14 +54,13 @@ _______MISSAJJ琴瑟静听  2016.4.1
 
 
 
----
 
 ##3、第一次参加APP比赛，2个参赛作品成为比赛Demo案例
 
 2013年中，参加追信和腾讯微博协作举办APP大赛，4个作品参赛入围,其两个作品同时成为参赛经典范例
 
-#比赛截图
-![Pic](https://github.com/MISSAJJ/MAButtonTool/blob/master/MADesignNote_History_1.JPG)
+#比赛截图 
+![Pic](https://github.com/MISSAJJ/MADesignNote/blob/master/MADesignNote_History_1.JPG)
 
 
 #比赛网址
@@ -62,7 +68,6 @@ _______MISSAJJ琴瑟静听  2016.4.1
  
 
 
----
 
 ##4、阿里妈妈创新点子设计大赛入围全国30强
 
@@ -70,33 +75,30 @@ _______MISSAJJ琴瑟静听  2016.4.1
 
 
 #比赛截图
-![Pic](https://github.com/MISSAJJ/MAButtonTool/blob/master/MADesignNote_History_2.JPG)
+![Pic](https://github.com/MISSAJJ/MADesignNote/blob/master/MADesignNote_History_2.JPG)
 
 #比赛网址 
 [阿里妈妈官方论坛的相关入围资料-网址](http://club.alimama.com/read-htm-tid-5330842.html)
 
 
 
----
 
 ##5、关于我的作品
 
 + 1、入职现任公司之后，1年半时间内为公司开发了5个独立IOS版本软件，应公司要求发布上架APPSTORE及维护管理4个软件
 
-（软件名分别为：智能标签、上海博物馆大全、上海购物指南、魔都消费卡）。
+     *（软件名分别为：智能标签、上海博物馆大全、上海购物指南、魔都消费卡）。
 
 #软件下载网址
 [这些软件的APPSTORE下载网址](https://itunes.apple.com/cn/developer/shanghai-yuan-yun-information/id622348624)
 
 
 
----
-
 + 2、以下是我早期设计的部分个人作品，在APPSTORE上架的有近50多个(目前由于工作繁忙,已经停止维护更新,但可以看设计界面)……
 
 #作品ICON截图
 
-![Pic](https://github.com/MISSAJJ/MAButtonTool/blob/master/MADesignNote_Work_1.JPG)
+![Pic](https://github.com/MISSAJJ/MADesignNote/blob/master/MADesignNote_Work_1.JPG)
 
 #更多作品APPSTORE下载网址 
 
@@ -143,15 +145,18 @@ _______MISSAJJ琴瑟静听  2016.4.1
 #这是近期业余设计的作品
 
 + 越来越喜欢中国的国粹文化, 所以在清明时节设计了这两张中国水墨作品,可以制成书签,也可以做成个性化名片哦~
-![Pic](https://github.com/MISSAJJ/MAButtonTool/blob/master/MADesignNote_3.JPG)
+
+![Pic](https://github.com/MISSAJJ/MADesignNote/blob/master/MADesignNote_3.JPG)
 
 
 + 春眠不觉晓,处处闻啼鸟,所以早期的鸟儿有虫吃~
-![Pic](https://github.com/MISSAJJ/MAButtonTool/blob/master/MADesignNote_2.JPG)
+
+![Pic](https://github.com/MISSAJJ/MADesignNote/blob/master/MADesignNote_2.JPG)
 
 
 + 这张清明的设计是自己最喜欢的调调, 印象中清明就是这样的色调
-![Pic](https://github.com/MISSAJJ/MAButtonTool/blob/master/MADesignNote_1.JPG)
+
+![Pic](https://github.com/MISSAJJ/MADesignNote/blob/master/MADesignNote_1.JPG)
 
 
 
@@ -159,6 +164,10 @@ _______MISSAJJ琴瑟静听  2016.4.1
  
 
 很希望能和大咖们一起快乐地奔跑,不再是一个孤独的攻城狮，
+
 希望能有更多的狮子一起共勉探讨学习，共同进步！
+
+![Pic](https://github.com/MISSAJJ/MADesignNote/blob/master/MADesignNote_Work_2.JPG)
+
 
 我的联系方式 ： QQ   996174446  ［验证：IOS攻城狮］
