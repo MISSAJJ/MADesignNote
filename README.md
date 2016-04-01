@@ -1,6 +1,6 @@
  
 
-###为什么要写设计札记? 
+###为什么要写设计札记? (MISSAJJ设计札记---我要做一朵把github当成博客来写的奇葩! )
 
 
 不积跬步,
@@ -96,7 +96,7 @@ _______MISSAJJ琴瑟静听  2016.4.1
 
 + 2、以下是我早期设计的部分个人作品，在APPSTORE上架的有近50多个(目前由于工作繁忙,已经停止维护更新,但可以看设计界面)……
 
-#####作品ICON截图
+#####MISSAJJ部分APP作品ICON截图(抱歉:本人早期出产APP比较多,所以请别怪我强奸了APPSTORE,嘻嘻...)
 
 ![Pic](https://github.com/MISSAJJ/MADesignNote/blob/master/MADesignNote_Work_1.JPG)
 
@@ -122,12 +122,36 @@ _______MISSAJJ琴瑟静听  2016.4.1
 这里,将会更新一些MISSAJJ的代码日志~
 
 
++ [MAImageViewTool](https://github.com/MISSAJJ/MAImageViewTool)  最后更新日期: 2016年3月1日
+ 
+* MISSAJJ写的一个基于SDWebImage自定义的管理网络图片加载的工具类
+     (普通图片加载,渐现Alpha图片加载,菊花Indicator动画加载) 
+
+
++ [MATools](https://github.com/MISSAJJ/MATools)  最后更新日期: 2016年3月2日
+
+* MISSAJJ积累整理的各种常用工具类代码
 
 
 
++ [MAHttpTool](https://github.com/MISSAJJ/MAHttpTool)  最后更新日期: 2016年3月4日
+
+* MISSAJJ写的一个基于AFNetworking为内核的HTTP请求工具类
 
 
 
++ [MAHUDTool](https://github.com/MISSAJJ/MAHUDTool)  最后更新日期: 2016年3月4日
+
+* MISSAJJ写的一个基于MBProgressHUD为内核的HUD工具类
+
+
++ [MAButtonTool](https://github.com/MISSAJJ/MAButtonTool)  最后更新日期: 2016年3月19日
+
+* MISSAJJ写的“一行搞定”快速创建导航栏按钮的工具类
+
+
+
+还有很多代码,等空下来温故而知新的时候一一整理吧.....
 
 
 
@@ -152,7 +176,7 @@ _______MISSAJJ琴瑟静听  2016.4.1
 ![Pic](https://github.com/MISSAJJ/MADesignNote/blob/master/MADesignNote_3.JPG)
 
 
-+ 春眠不觉晓,处处闻啼鸟,所以早期的鸟儿有虫吃~
++ 春眠不觉晓,处处闻啼鸟,所以早起的鸟儿有虫吃~
 
 ![Pic](https://github.com/MISSAJJ/MADesignNote/blob/master/MADesignNote_2.JPG)
 
