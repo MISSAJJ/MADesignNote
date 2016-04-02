@@ -13,9 +13,9 @@
 
 从2011年就开始迈进手机软件开发行业,
 
-3年主攻APP产品策划整合,界面设计,产品上架,市场推广(主要是淘宝购物类应用),
+前3年主攻APP产品策划整合,界面设计,产品上架,
 
-2年从事IOS项目原生代码开发,
+后2年从事IOS项目原生代码开发,
 
 一路走来虽然艰辛但却甚是欣喜, 
 
@@ -68,8 +68,8 @@
 #####比赛截图
 ![Pic](https://github.com/MISSAJJ/MADesignNote/blob/master/MADesignNote_History_2.JPG)
 
-#####比赛网址 
-[阿里妈妈官方论坛的相关入围资料-网址](http://club.alimama.com/read-htm-tid-5330842.html)
+#####阿里妈妈官方论坛的相关入围资料网址
+[http://club.alimama.com/read-htm-tid-5330842.html](http://club.alimama.com/read-htm-tid-5330842.html)
 
 
 
@@ -80,14 +80,13 @@
 
      *（软件名分别为：智能标签、上海博物馆大全、上海购物指南、魔都消费卡）。
 
-#####软件下载网址
-[这些软件的APPSTORE下载网址](https://itunes.apple.com/cn/developer/shanghai-yuan-yun-information/id622348624)
+     * [APPSTORE下载网址](https://itunes.apple.com/cn/developer/shanghai-yuan-yun-information/id622348624)
 
 
 
-+ 2、以下是我早期设计的部分个人作品，在APPSTORE上架的有近50多个(目前由于工作繁忙,已经停止维护更新,但可以看设计界面)……
++ 2、以下是我早期设计的部分个人作品，在APPSTORE上架的有近50多个(由于工作繁忙,目前已经停止维护更新,但依然可以看设计界面)……
 
-#####MISSAJJ部分APP作品ICON截图(抱歉:本人早期出产APP比较多,所以请别怪我强奸了APPSTORE,嘻嘻...)
+#####MISSAJJ部分APP作品ICON截图(抱歉:本人早期出产APP比较多,所以请别怪我有强奸APPSTORE的嫌疑,嘻嘻...)
 
 ![Pic](https://github.com/MISSAJJ/MADesignNote/blob/master/MADesignNote_Work_1.JPG)
 
@@ -171,7 +170,9 @@
 
 
 
-#重要申明:虽然，不想当程序猿的设计狮不是好的攻城狮，但摄影美术设计仅是本人的业余爱好，在美工请假的时候或可暂缓公司燃眉之急，但并不代表本人就是一个可包揽整个公司AI，名片，展架，展板，展卡，展台，海报，软件美工设计，网站前端设计，甚至网站后端相关设计的免费设计狮，因为如果连自己都不尊重IOS软件攻城狮的优雅职业，也不会被尊重！！！
+###重要申明:
+
+虽然，不想当程序猿的设计狮不是好的攻城狮，但摄影和美术设计仅是本人的业余爱好，在美工请假的时候或可暂缓公司燃眉之急，但并不代表本人就是一个可包揽整个公司AI，UI，名片，海报，宣传卡，展架展板，展卡展台，软件美工，网站前端，甚至网站后端相关设计的免费设计狮，因为如果连自己都不尊重IOS软件攻城狮的优雅职业，也不会被尊重！！！
 
 ###Other其他
  
