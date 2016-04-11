@@ -29,7 +29,93 @@
 
 ---
 
-### IOS软件设计作品历程​ 
+###我的作品
+
+####1、公司作品
+
+
+入职现任公司之后，1年半时间内为公司开发了5个独立IOS版本软件，应公司要求发布上架APPSTORE及维护管理4个软件
+
+*（软件名分别为：智能标签、上海博物馆大全、上海购物指南、魔都消费卡）。
+
+* [APPSTORE下载网址](https://itunes.apple.com/cn/developer/shanghai-yuan-yun-information/id622348624)
+
+
+
+####2、个人作品
+
+
+以下是我早期设计的部分个人作品，在APPSTORE上架的有近50多个(由于工作繁忙,目前已经停止维护更新,但依然可以看设计界面)……
+
+#####MISSAJJ部分APP作品ICON截图(抱歉:本人早期出产APP比较多,所以请别怪我有强奸APPSTORE的嫌疑,嘻嘻...)
+
+![Pic](https://github.com/MISSAJJ/MADesignNote/blob/master/MADesignNote_Work_1.JPG)
+
+#####更多作品APPSTORE下载网址 
+
+[https://itunes.apple.com/cn/artist/wang-chunying/id566476103](https://itunes.apple.com/cn/artist/wang-chunying/id566476103)
+
+
+####3、未来作品
+
+  
+在过去所接触的各种项目中整理、归纳、提炼， 把有限的时间专注服务于未来的项目，这何尝不是另一种提升？！
+
+所以：没有最好的， 只有更好的！
+
+
+
+###MISSAJJ自己归纳整理的IOS开发工具类（长路漫漫兮,吾将上下而求索...）
+
+
+公司项目都是商业版本，不能外泄，而作为职业工程师这也是必须遵守的责任。
+
+所以上传github的只是一些自己平日整理的工具类，虽然不是完整的项目，只是些代码片段，但都是经自己学习思考积累所写，而不是随便抄袭或者拷贝了别人的代码上传的。
+
+一直想整理一套更完整的从系统架构，数据存储，网络请求，快速建模，UI封装等都有严谨思考的工具类，目的是能让未来的开发就像配置那么简单。
+
+虽然时间有限，能力也有限，但也不忘初心，希望能给新手开发者们一些思路的引导，共同提升技术能力。
+
+
+
++ [MAButtonTool](https://github.com/MISSAJJ/MAButtonTool)  最后更新日期: 2016年4月9日
+
+MISSAJJ写的“一行搞定”快速创建导航栏按钮的工具类
+
+
++ [MAImageViewTool](https://github.com/MISSAJJ/MAImageViewTool)  最后更新日期: 2016年3月1日
+ 
+    MISSAJJ写的一个基于SDWebImage自定义的管理网络图片加载的工具类
+     (普通图片加载,渐现Alpha图片加载,菊花Indicator动画加载) 
+
+
++ [MATools](https://github.com/MISSAJJ/MATools)  最后更新日期: 2016年3月2日
+
+   MISSAJJ积累整理的各种常用工具类代码
+
+
+
++ [MAHttpTool](https://github.com/MISSAJJ/MAHttpTool)  最后更新日期: 2016年3月4日
+
+   MISSAJJ写的一个基于AFNetworking为内核的HTTP请求工具类
+
+
+
++ [MAHUDTool](https://github.com/MISSAJJ/MAHUDTool)  最后更新日期: 2016年3月4日
+
+   MISSAJJ写的一个基于MBProgressHUD为内核的HUD工具类
+
+
+
+
+
+还有很多代码,等空下来温故而知新的时候一一整理吧.....
+
+
+
+---
+---
+### IOS软件设计作品历程​及获奖荣誉 
 
 
 ####1、第一个APP设计作品
@@ -56,7 +142,7 @@
 
 #####比赛网址
 [腾讯微博&追信 创意手机软件设计大赛-网址](http://qq.zhui.cn)
- 
+
 
 
 
@@ -71,74 +157,6 @@
 #####阿里妈妈官方论坛的相关入围资料网址
 [http://club.alimama.com/read-htm-tid-5330842.html](http://club.alimama.com/read-htm-tid-5330842.html)
 
-
-
-
-####5、关于我的作品
-
-+ 1、入职现任公司之后，1年半时间内为公司开发了5个独立IOS版本软件，应公司要求发布上架APPSTORE及维护管理4个软件
-
-     *（软件名分别为：智能标签、上海博物馆大全、上海购物指南、魔都消费卡）。
-
-     * [APPSTORE下载网址](https://itunes.apple.com/cn/developer/shanghai-yuan-yun-information/id622348624)
-
-
-
-+ 2、以下是我早期设计的部分个人作品，在APPSTORE上架的有近50多个(由于工作繁忙,目前已经停止维护更新,但依然可以看设计界面)……
-
-#####MISSAJJ部分APP作品ICON截图(抱歉:本人早期出产APP比较多,所以请别怪我有强奸APPSTORE的嫌疑,嘻嘻...)
-
-![Pic](https://github.com/MISSAJJ/MADesignNote/blob/master/MADesignNote_Work_1.JPG)
-
-#####更多作品APPSTORE下载网址 
-
-[https://itunes.apple.com/cn/artist/wang-chunying/id566476103](https://itunes.apple.com/cn/artist/wang-chunying/id566476103)
-
-
-
----
-
-###MISSAJJ自己归纳整理的IOS开发工具类
-
-
-长路漫漫兮,
-
-吾将上下而求索...
-
-
-
-
-
-+ [MAImageViewTool](https://github.com/MISSAJJ/MAImageViewTool)  最后更新日期: 2016年3月1日
- 
-    MISSAJJ写的一个基于SDWebImage自定义的管理网络图片加载的工具类
-     (普通图片加载,渐现Alpha图片加载,菊花Indicator动画加载) 
-
-
-+ [MATools](https://github.com/MISSAJJ/MATools)  最后更新日期: 2016年3月2日
-
-   MISSAJJ积累整理的各种常用工具类代码
-
-
-
-+ [MAHttpTool](https://github.com/MISSAJJ/MAHttpTool)  最后更新日期: 2016年3月4日
-
-   MISSAJJ写的一个基于AFNetworking为内核的HTTP请求工具类
-
-
-
-+ [MAHUDTool](https://github.com/MISSAJJ/MAHUDTool)  最后更新日期: 2016年3月4日
-
-   MISSAJJ写的一个基于MBProgressHUD为内核的HUD工具类
-
-
-+ [MAButtonTool](https://github.com/MISSAJJ/MAButtonTool)  最后更新日期: 2016年3月19日
-
-   MISSAJJ写的“一行搞定”快速创建导航栏按钮的工具类
-
-
-
-还有很多代码,等空下来温故而知新的时候一一整理吧.....
 
 
 
@@ -172,7 +190,7 @@
 
 ###重要申明:
 
-虽然，不想当程序猿的设计狮不是好的攻城狮，但摄影和美术设计仅是本人的业余爱好，在美工请假的时候或可暂缓公司燃眉之急，但并不代表本人就是一个可包揽整个公司AI，UI，名片，海报，宣传卡，展架展板，展卡展台，软件美工，网站前端，甚至网站后端相关设计的免费设计狮，因为如果连自己都不尊重IOS软件攻城狮的优雅职业，也不会被尊重！！！
+虽然，不想当程序猿的设计狮不是好的攻城狮，但摄影和美术设计仅是本人的业余爱好，在美工请假的时候或可暂缓公司燃眉之急，但并不代表本人就是一个可包揽整个公司AI，UI，名片，海报，宣传卡，展架展板，展卡展台，软件美工，网站前端，甚至网站后端相关设计的免费设计狮，因为工程师不是神，也需要休息，更需要把有限的时间去专注于本职工作，如果连自己都不尊重IOS软件攻城狮的优雅职业，也不会被尊重！！！
 
 ###Other其他
  
@@ -187,4 +205,4 @@
 我的联系方式 ： QQ   996174446  ［验证：IOS攻城狮］
 
 
-#如果你的手指觉得痒痒的，那就请给我点个Star，因为这是github的偏方，嘻嘻^_^
+#如果你的手指觉得痒痒的，那就请给我点个Star，因为这是github的偏方，点了就不痒了，嘻嘻^_^
