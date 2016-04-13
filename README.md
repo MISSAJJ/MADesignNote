@@ -3,7 +3,7 @@
 ###做一朵把github当成博客来写的奇葩! 
 
 
-![Pic](https://github.com/MISSAJJ/MADesignNote/blob/master/MADesignNote_2.JPG)
+![Pic](https://github.com/MISSAJJ/MADesignNote/blob/master/pics/MADesignNote_2.JPG)
 
 
 
@@ -49,7 +49,7 @@
 
 #####MISSAJJ部分APP作品ICON截图(抱歉:本人早期出产APP比较多,所以请别怪我有强奸APPSTORE的嫌疑,嘻嘻...)
 
-![Pic](https://github.com/MISSAJJ/MADesignNote/blob/master/MADesignNote_Work_1.JPG)
+![Pic](https://github.com/MISSAJJ/MADesignNote/blob/master/pics/MADesignNote_Work_1.JPG)
 
 #####更多作品APPSTORE下载网址 
 
@@ -137,7 +137,7 @@ MISSAJJ写的“一行搞定”快速创建导航栏按钮的工具类
 2013年中，参加追信和腾讯微博协作举办APP大赛，4个作品参赛入围,其两个作品同时成为参赛经典范例
 
 #####比赛截图 
-![Pic](https://github.com/MISSAJJ/MADesignNote/blob/master/MADesignNote_History_1.JPG)
+![Pic](https://github.com/MISSAJJ/MADesignNote/blob/master/pics/MADesignNote_History_1.JPG)
 
 
 #####比赛网址
@@ -152,7 +152,7 @@ MISSAJJ写的“一行搞定”快速创建导航栏按钮的工具类
 
 
 #####比赛截图
-![Pic](https://github.com/MISSAJJ/MADesignNote/blob/master/MADesignNote_History_2.JPG)
+![Pic](https://github.com/MISSAJJ/MADesignNote/blob/master/pics/MADesignNote_History_2.JPG)
 
 #####阿里妈妈官方论坛的相关入围资料网址
 [http://club.alimama.com/read-htm-tid-5330842.html](http://club.alimama.com/read-htm-tid-5330842.html)
@@ -171,26 +171,26 @@ MISSAJJ写的“一行搞定”快速创建导航栏按钮的工具类
 
 + Sketch是目前为止我最喜欢使用的手机原型设计工具了，可以设计APP高保真界面，还可以设计Icon，觉得都能替代 Adobe Photoshop，Illustrator 和 Fireworks了，可以节省很多时间专注于设计和开发本身
 
-![Pic](https://github.com/MISSAJJ/MADesignNote/blob/master/MADesignNote_4.JPG)
+![Pic](https://github.com/MISSAJJ/MADesignNote/blob/master/pics/MADesignNote_4.JPG)
 
 
 + 这是用国内的“墨刀”设计的App原型，可以模仿APP交互，这个Demo是模仿淘宝官方APP主界面
 
-![Pic](https://github.com/MISSAJJ/MADesignNote/blob/master/MADesignNote_5.JPG)
+![Pic](https://github.com/MISSAJJ/MADesignNote/blob/master/pics/MADesignNote_5.JPG)
 
 + Photoshop是最常使用的设计软件，历史悠久了。随着年龄的沉淀，越来越喜欢中国的国粹文化, 所以在清明时节设计了这两张中国水墨作品,可以制成书签,也可以做成个性化名片哦~
 
-![Pic](https://github.com/MISSAJJ/MADesignNote/blob/master/MADesignNote_3.JPG)
+![Pic](https://github.com/MISSAJJ/MADesignNote/blob/master/pics/MADesignNote_3.JPG)
 
 
 + 春眠不觉晓,处处闻啼鸟,所以早起的鸟儿有虫吃~
 
-![Pic](https://github.com/MISSAJJ/MADesignNote/blob/master/MADesignNote_2.JPG)
+![Pic](https://github.com/MISSAJJ/MADesignNote/blob/master/pics/MADesignNote_2.JPG)
 
 
 + 这张清明的设计是自己最喜欢的调调, 印象中清明就是这样的色调
 
-![Pic](https://github.com/MISSAJJ/MADesignNote/blob/master/MADesignNote_1.JPG)
+![Pic](https://github.com/MISSAJJ/MADesignNote/blob/master/pics/MADesignNote_1.JPG)
 
 
 还有很多业余时间帮公司设计的名片，海报，宣传卡，展架之类的美术设计作品，已经公开印刷成品布置在上海各大展馆或者商场了，等空下来再陆续更新吧……
@@ -230,7 +230,7 @@ MISSAJJ写的“一行搞定”快速创建导航栏按钮的工具类
 
 希望能有更多的狮子一起共勉探讨学习，共同进步！
 
-![Pic](https://github.com/MISSAJJ/MADesignNote/blob/master/MADesignNote_Work_2.JPG)
+![Pic](https://github.com/MISSAJJ/MADesignNote/blob/master/pics/MADesignNote_Work_2.JPG)
 
 
 我的联系方式 ： QQ   996174446  ［验证：IOS攻城狮］
