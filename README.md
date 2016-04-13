@@ -169,7 +169,16 @@ MISSAJJ写的“一行搞定”快速创建导航栏按钮的工具类
 ####这是近期业余设计的作品
 
 
-+ 越来越喜欢中国的国粹文化, 所以在清明时节设计了这两张中国水墨作品,可以制成书签,也可以做成个性化名片哦~
++ Sketch是目前为止我最喜欢使用的手机原型设计工具了，可以设计APP高保真界面，还可以设计Icon，觉得都能替代 Adobe Photoshop，Illustrator 和 Fireworks了，可以节省很多时间专注于设计和开发本身
+
+![Pic](https://github.com/MISSAJJ/MADesignNote/blob/master/MADesignNote_4.JPG)
+
+
++ 这是用国内的“墨刀”设计的App原型，可以模仿APP交互，这个Demo是模仿淘宝官方APP主界面
+
+![Pic](https://github.com/MISSAJJ/MADesignNote/blob/master/MADesignNote_5.JPG)
+
++ Photoshop是最常使用的设计软件，历史悠久了。随着年龄的沉淀，越来越喜欢中国的国粹文化, 所以在清明时节设计了这两张中国水墨作品,可以制成书签,也可以做成个性化名片哦~
 
 ![Pic](https://github.com/MISSAJJ/MADesignNote/blob/master/MADesignNote_3.JPG)
 
@@ -184,7 +193,7 @@ MISSAJJ写的“一行搞定”快速创建导航栏按钮的工具类
 ![Pic](https://github.com/MISSAJJ/MADesignNote/blob/master/MADesignNote_1.JPG)
 
 
-还有很多美术设计作品，等空下来再陆续更新吧……
+还有很多业余时间帮公司设计的名片，海报，宣传卡，展架之类的美术设计作品，已经公开印刷成品布置在上海各大展馆或者商场了，等空下来再陆续更新吧……
 
 
 
@@ -194,12 +203,12 @@ MISSAJJ写的“一行搞定”快速创建导航栏按钮的工具类
 
 但并不代表本人就是一个可包揽整个公司AI，UI，名片，海报，宣传卡，展架展板，展卡展台，软件美工，网站前端，甚至网站后端相关设计的免费设计狮哦~
 
-因为工程师不是神，也需要休息，更需要把有限的时间去专注于本职工作。
+因为工程师不是神，也需要休息，更需要把有限的时间去专注于开发技术的提升和进修。
 
 当然，如果连自己都不尊重IOS软件攻城狮的优雅职业，也不会被尊重，您说是吧？！^_^
 
 
-###掌握的设计开发工具
+###经常使用的设计开发工具
 
 
 1、美术设计：Photoshop（常用）
@@ -208,10 +217,14 @@ MISSAJJ写的“一行搞定”快速创建导航栏按钮的工具类
 
 3、手机产品原型设计工具：Sketch，Axure，墨客
 
+4、IOS开发的工具是Xcode，当然还有CocoaPods和每日必逛的Github
+
+5、有时候会用Charles青花瓷来抓包，破解一些著名APP的Json数据，来做一些demo和研究数据和界面的交互架构
+
 
 ###Other其他
  
-目前正在学习Swift语言，尝试将过去的项目陆续翻译成Swift语言，
+目前正在学习Swift语言，尝试将过去的项目陆续编译成Swift语言，
 
 很希望能和大咖们一起快乐地奔跑,不再是一个孤独的攻城狮，
 
