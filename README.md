@@ -74,7 +74,7 @@ IOS软件开发工程师或移动APP产品经理，从设计到开发以及美�
 
 #####更多作品APPSTORE下载网址 
 
-* [https://itunes.apple.com/cn/artist/wang-chunying/id566476103](https://itunes.apple.com/cn/artist/wang-chunying/id566476103)
+* [https://itunes.apple.com/cn/developer/wang-chunying/id566476103](https://itunes.apple.com/cn/developer/wang-chunying/id566476103)
 
 
 ---
