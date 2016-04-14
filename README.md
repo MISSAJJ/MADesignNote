@@ -40,11 +40,17 @@ IOS软件开发工程师或移动APP产品经理，从设计到开发以及美�
 ####1、公司作品
 
 
-入职现任公司之后，1年半时间内为公司开发了5个独立IOS版本软件，应公司要求发布上架APPSTORE及维护管理4个软件
+入职现任公司之后，开发了5个独立IOS版本软件，应公司要求发布上架APPSTORE及维护管理4个软件
 
 *（软件名分别为：智能标签、上海博物馆大全、上海购物指南、魔都消费卡）。
 
-* [APPSTORE下载网址](https://itunes.apple.com/cn/developer/shanghai-yuan-yun-information/id622348624)
+
+#####公司作品截图（请耐心等待图片加载……）
+ 
+![Pic](https://github.com/MISSAJJ/MADesignNote/blob/master/pics/MADesignNote_Work_3.JPG)
+
+#####APPSTORE下载网址 
+* [https://itunes.apple.com/cn/developer/shanghai-yuan-yun-information/id622348624](https://itunes.apple.com/cn/developer/shanghai-yuan-yun-information/id622348624)
 
 
 
@@ -53,11 +59,15 @@ IOS软件开发工程师或移动APP产品经理，从设计到开发以及美�
 
 以下是我早期设计的部分个人作品，在APPSTORE上架的有近50多个(由于工作繁忙,目前已经停止维护更新,但依然可以看设计界面)……
 
-#####MISSAJJ部分APP作品ICON截图(抱歉:本人早期出产APP比较多,所以请别怪我有强奸APPSTORE的嫌疑,嘻嘻...)
+#####MISSAJJ部分APP作品截图（请耐心等待图片加载……）
+ 
+
+![Pic](https://github.com/MISSAJJ/MADesignNote/blob/master/pics/MADesignNote_Work_4.JPG)
 
 ![Pic](https://github.com/MISSAJJ/MADesignNote/blob/master/pics/MADesignNote_Work_1.JPG)
 
-#####更多作品APPSTORE下载网址 
+
+#####更多作品APPSTORE下载网址 （早期作品比较多，请别怪我有强奸APPSTORE的嫌疑，嘻嘻^_^）
 
 [https://itunes.apple.com/cn/artist/wang-chunying/id566476103](https://itunes.apple.com/cn/artist/wang-chunying/id566476103)
 
@@ -120,7 +130,6 @@ MISSAJJ写的“一行搞定”快速创建导航栏按钮的工具类
 
 
 ---
----
 ### IOS软件设计作品历程​及获奖荣誉 
 
 
@@ -142,7 +151,7 @@ MISSAJJ写的“一行搞定”快速创建导航栏按钮的工具类
 
 2013年中，参加追信和腾讯微博协作举办APP大赛，4个作品参赛入围,其两个作品同时成为参赛经典范例
 
-#####比赛截图 
+#####比赛截图（请耐心等待图片加载……）
 ![Pic](https://github.com/MISSAJJ/MADesignNote/blob/master/pics/MADesignNote_History_1.JPG)
 
 
@@ -157,7 +166,7 @@ MISSAJJ写的“一行搞定”快速创建导航栏按钮的工具类
 2013年10月，我的一个作品【呛口小辣椒-时尚达人购物搭配秀】参加了阿里巴巴旗下举办的《阿里妈妈创新点子设计大赛》，入围无线赛区全国30强，以下是阿里妈妈官方论坛的相关入围的资料  
 
 
-#####比赛截图
+#####比赛截图（请耐心等待图片加载……）
 ![Pic](https://github.com/MISSAJJ/MADesignNote/blob/master/pics/MADesignNote_History_2.JPG)
 
 #####阿里妈妈官方论坛的相关入围资料网址
@@ -172,7 +181,7 @@ MISSAJJ写的“一行搞定”快速创建导航栏按钮的工具类
  
 
 
-####这是近期业余设计的作品
+####这是近期业余设计的作品（请耐心等待图片加载……）
 
 
 + Sketch是目前为止我最喜欢使用的手机原型设计工具了，可以设计APP高保真界面，还可以设计Icon，觉得都能替代 Adobe Photoshop，Illustrator 和 Fireworks了，可以节省很多时间专注于设计和开发本身
