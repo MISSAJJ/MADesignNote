@@ -2,7 +2,7 @@
 
 ##缘分，妙不可言！ (请耐心等待图片加载，谢谢……)
 
-很感激您的浏览，给与我们一个相互拥抱的机会！
+很感激您的浏览，给予我们一个相互拥抱的机会！
 
 IOS软件开发工程师或移动APP产品经理，从设计到开发以及美工我都可以胜任！
 
@@ -96,7 +96,7 @@ IOS软件开发工程师或移动APP产品经理，从设计到开发以及美�
 
 + [MAButtonTool](https://github.com/MISSAJJ/MAButtonTool)  最后更新日期: 2016年4月9日
 
-MISSAJJ写的“一行搞定”快速创建导航栏按钮的工具类
+    MISSAJJ写的“一行搞定”快速创建导航栏按钮的工具类
 
 
 + [MAImageViewTool](https://github.com/MISSAJJ/MAImageViewTool)  最后更新日期: 2016年3月1日
