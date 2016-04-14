@@ -1,6 +1,12 @@
  
 
-###做一朵把github当成博客来写的奇葩! 
+##缘分，妙不可言！ (请耐心等待图片加载，谢谢……)
+
+很感激您的浏览，给与我们一个相互拥抱的机会！
+
+IOS软件开发工程师或移动APP产品经理，从设计到开发以及美工我都可以胜任！
+
+以下是我的一些项目作品链接、部分项目代码和简介， 您也可以转给HR及领导看一下， 谢谢^_^
 
 
 ![Pic](https://github.com/MISSAJJ/MADesignNote/blob/master/pics/MADesignNote_2.JPG)
