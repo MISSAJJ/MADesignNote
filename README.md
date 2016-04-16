@@ -9,7 +9,7 @@ IOS软件开发工程师或移动APP产品经理，从设计到开发以及美�
 以下是我的一些项目作品链接、部分项目代码和简介， 您也可以转给HR及领导看一下， 谢谢^_^
 
 
-![Pic](https://github.com/MISSAJJ/MADesignNote/blob/master/pics/MADesignNote_2.JPG)
+![Pic](https://github.com/MISSAJJ/MADesignNote/blob/master/pics/MADesignNote_6.JPG)
 
 
 
