@@ -227,13 +227,13 @@
 ![Pic](https://github.com/MISSAJJ/MADesignNote/blob/master/pics/MADesignNote_1.JPG)
 
 
-+ 以下是业余时间帮公司设计的名片，海报，宣传卡，展架之类的美术设计作品
++ 以下是帮公司设计的海报，宣传卡，展架之类的美术设计作品
 
 ![Pic](https://github.com/MISSAJJ/MADesignNote/blob/master/pics/MADesignNote_7.JPG)
 ---
 ###重要申明:
 
-不想当程序猿的设计狮不是好的攻城狮，这是我的初心，也会继续坚持不懈！
+####不想当程序猿的设计狮不是好的攻城狮！这是我的初心，也会继续坚持不懈！
 
 本人有一定的美术设计能力，也很愿意在公司美工请假或者突然跳槽的情况下挺身而出缓解公司燃眉之急，因为企业和员工只有相互支撑和扶持，才能走得更远，但如果这意味着IOS软件工程师还得长期承担免费美术设计师的话，那也是吃不消的～
 
@@ -242,7 +242,7 @@
 ---
 ###Other其他
  
-目前正在学习Swift语言，尝试将过去的项目陆续编译成Swift语言，很希望能和大咖们一起快乐地奔跑，不再是一个孤独的攻城狮，希望能有更多的狮子一起共勉探讨学习，共同进步！
+本人目前正在学习Swift语言，尝试将过去的项目陆续编译成Swift语言，很希望能和大咖们一起快乐地奔跑，不再是一个孤独的攻城狮，希望能有更多的狮子一起共勉探讨学习，共同进步！
 
 ![Pic](https://github.com/MISSAJJ/MADesignNote/blob/master/pics/MADesignNote_Work_2.JPG)
 
