@@ -37,7 +37,7 @@
 
 #####请点以下链接看我的个人博客网站
 
-* [http://cz.jiboit.com](http://cz.jiboit.com)
+* [http://www.MISSAJJ.com](http://www.missajj.com)
                                                          
 请分享我的个人网站给HR或CEO、CTO、COO……谢谢^_^
 
